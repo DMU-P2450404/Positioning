@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+}
+
+header {
+  background-color: #c89ded;
+  margin: -8px;
+  height: 90px;
+  width: 100%;
+  line-height: 45px;
+  text-align: center;
+  position: fixed;
+}
+
+div {
+  height: 90px;
+}
